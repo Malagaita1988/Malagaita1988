@@ -10,7 +10,7 @@ I’m currently honing my skills in web development, focusing on HTML, CSS, Java
 I'm looking to collaborate on open-source projects, especially in web development, coding challenges, and projects that explore new technologies or creative ideas.
 
 ## 📫 How to reach me...
-You can reach me via email at malagaita1988@example.com or connect with me through my LinkedIn profile (LinkedIn.com/in/malagaita).
+You can reach me via email at luzomc@gmail.com or connect with me through my LinkedIn profile (LinkedIn.com/in/malagaita).
 
 ## 😄 Pronouns:
 He/Him
